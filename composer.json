@@ -1,5 +1,5 @@
 {
-    "name": "michael/laravel-pagseguro",
+    "name": "marceltk/pagseguro-api-laravel",
     "description": "Biblioteca de integração com o gateway de pagamento PagSeguro.",
     "keywords": ["framework", "laravel", "Gateway Pagamento", "PagSeguro"],
     "license": "MIT",
@@ -22,12 +22,8 @@
     },
     "authors": [
         {
-            "name": "Michael Douglas Barbosa Araujo",
-            "email": "michaeldouglas010790@gmail.com"
-        },
-        {
-            "name": "Isaque de Souza Barbosa",
-            "email": "isaquesb@gmail.com"
+            "name": "Marcel Candido | Fork Michael Douglas Barbosa Araujo",
+            "email": "phpmarcel@gmail.com"
         }
     ],
     "scripts": {
