@@ -63,6 +63,7 @@ class Xml implements StatementInterface
             $this->getShippingXmlString() .
             $this->getConfigXmlString() .
             $this->getMetadataXmlString() .
+            '<shippingAddressRequired>false</shippingAddressRequired>' .  // Customização necessria para serviços (melhorar)
             '</checkout>';
     }
 
