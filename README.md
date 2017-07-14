@@ -25,7 +25,7 @@ segue URL de configuração do usuário PagSeguro:
 Abra o arquivo `composer.json` e insira a seguinte instrução:
 
     "require": {
-        "michael/laravelpagseguro": "dev-master"
+        "marceltk/laravelpagseguro": "dev-master"
     }
 
 Após inserir no require o `Laravel PagSeguro`, você deverá executar o comando:
