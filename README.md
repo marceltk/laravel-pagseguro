@@ -35,7 +35,7 @@ Após inserir no require o `Laravel PagSeguro`, você deverá executar o comando
 
 Ou execute o comando:
 
-    composer require michael/laravelpagseguro:dev-master
+    composer require marceltk/laravelpagseguro:dev-master
 
 ## Configuração do Service Provider
 
